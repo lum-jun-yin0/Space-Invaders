@@ -9,7 +9,7 @@ Gameplay:
    Blue Bot: 100 Points
    ![image](https://github.com/user-attachments/assets/34b3c33b-45c8-4f0b-9564-9b58347efbe1)
    
-   Yellow Bot: 300 Points
+   Yellow Bot: 200 Points
    ![image](https://github.com/user-attachments/assets/84d4f643-ca57-4211-a2e6-4131057c9096)
    
    Red Ship: 500 Points
