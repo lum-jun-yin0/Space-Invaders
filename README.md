@@ -32,7 +32,9 @@ Gameplay:
 
 4. Records your highscore and displays it at the top right.
 
-   ![image](https://github.com/user-attachments/assets/b053d028-53ba-462d-9ed4-cdd7d85b920d)
+   ![image](https://github.com/user-attachments/assets/b053d028-53ba-462d-9ed4-cdd7d85b920d)![alien_3](https://github.com/user-attachments/assets/141003f7-2979-440d-8d58-4c38d3873f45)
+![alien_3](https://github.com/user-attachments/assets/b07433c9-b413-4982-8167-5859d70046e3)
+
 
 
 Reference: https://www.youtube.com/watch?v=PFMoo_dvhyw
