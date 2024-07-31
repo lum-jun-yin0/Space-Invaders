@@ -22,8 +22,8 @@ class Game:
         self.highscore = 0
         self.explosion_sound = py.mixer.Sound("audio/explosion.ogg")
         self.load_highscore()
-        #py.mixer.music.load("audio/music.ogg")
-        #py.mixer.music.play(-1)
+        py.mixer.music.load("audio/music.ogg")
+        py.mixer.music.play(-1)
 
     def create_aliens(self):
         for row in range(5):
