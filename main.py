@@ -28,10 +28,12 @@ while run:
     screen.fill((202, 228, 241))
     Instructions = font.render("1. Press space to shoot laser beams at the enemies.", False, GREY)
     Instructions1 = font.render("2. The enemies will shoot back at you, you have 3", False, GREY)
+    Instructions3 = font.render("3. You can press 'q' to exit.", False, GREY)
     Instructions2 = font.render("lives.", False, GREY)
     screen.blit(Instructions, (10, 10, 50, 50))
     screen.blit(Instructions1, (10, 50, 50, 50))
     screen.blit(Instructions2, (10, 90, 50, 50))
+    screen.blit(Instructions3, (10, 130, 50, 50))
 
     if start_button.draw(screen):
         run = False
@@ -99,6 +101,8 @@ while run1:
             if keys[py.K_SPACE] and game.run == False:
                 game.reset()
             if keys [py.K_q] and game.run == False:
+                py.quit()
+            if keys [py.K_q] and game.run == True:
                 py.quit()
         
         #Updating
