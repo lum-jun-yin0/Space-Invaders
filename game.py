@@ -105,6 +105,7 @@ class Game:
     
     def game_over(self):
         self.run = False
+        py.mixer.music.stop()
 
     def reset(self):
         self.run = True
